@@ -1,4 +1,4 @@
-# DogAccountingService
+# Doge
 this is an accounting service demo
 
 main point
